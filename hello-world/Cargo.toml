@@ -11,6 +11,3 @@ gear-wasm-builder = { git = "https://github.com/gear-tech/gear.git", branch = "t
 
 [dev-dependencies]
 gtest = { git = "https://github.com/gear-tech/gear.git", branch = "testnet" }
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-

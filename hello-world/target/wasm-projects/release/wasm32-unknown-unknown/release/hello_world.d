@@ -1,0 +1,1 @@
+/workspace/dancan-gear-academy/hello-world/target/wasm-projects/release/wasm32-unknown-unknown/release/hello_world.wasm: /workspace/dancan-gear-academy/hello-world/build.rs /workspace/dancan-gear-academy/hello-world/src/lib.rs /workspace/dancan-gear-academy/hello-world/target/release/build/hello-world-eba000143ce7720f/out/src/lib.rs
